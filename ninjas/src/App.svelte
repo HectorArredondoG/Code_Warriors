@@ -1,4 +1,7 @@
-<script></script>
+<script>
+
+  
+</script>
 <main>
   <nav class="navbar navbar-expand-lg" id="navega">
     <div class="container-fluid">
